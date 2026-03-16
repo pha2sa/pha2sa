@@ -1,16 +1,30 @@
-## Hi there 👋
+# Tosin Fatosa
 
-<!--
-**pha2sa/pha2sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Leader. Product Builder. Co-Founder.**
 
-Here are some ideas to get you started:
+CISSP | CISM | SecurityX | 12+ years enterprise security | Shipping production SaaS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Background
+
+12+ years in enterprise cybersecurity across federal government, Fortune 500, and international environments. I also design and ship production software with security architecture from day one.
+
+### What I Build
+
+| Product | What It Does |
+|---------|-------------|
+| **[Library Scheduler](https://libraryscheduler.com)** | Multi-tenant SaaS for municipal library program scheduling |
+| **[ContactBridge](https://contactbridge.app)** | ABA supervision client access platform |
+| **[CR Clinical](https://crclinical.vercel.app)** | Corporate site for a contract research organization |
+| **[Tyra S. Gardner](https://tyra-gardner-website-pndqtyp5q-pha2sas-projects.vercel.app)** | Professional site for a mental health clinical practice |
+| **[Globance Tax Services](https://globancetax.com)** | Booking and lead capture for financial services |
+| **[ETH World Training Center](https://ethwtc.org)** | Church site with automated sermon publishing |
+| **[Phatosa Limited](https://phatosa.com)** | Corporate site for a diversified holding company |
+| **[Trebuo Inc.](https://trebuo.com)** | Corporate site for a technology advisory firm |
+
+### Connect
+
+- **Site**: [fatosa.me](https://fatosa.me)
+- **Email**: tosin@fatosa.me
+- **LinkedIn**: [linkedin.com/in/fatosa](https://www.linkedin.com/in/fatosa/)
